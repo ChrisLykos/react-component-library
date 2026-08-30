@@ -4,3 +4,6 @@ export type {
   ButtonSize,
   ButtonVariant,
 } from "./components/Button";
+
+export { Input } from "./components/Input";
+export type { InputProps } from "./components/Input";
